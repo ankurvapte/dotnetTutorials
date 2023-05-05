@@ -1,0 +1,15 @@
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/bin/Debug/net6.0/ThirdCoreApplication
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/bin/Debug/net6.0/ThirdCoreApplication.deps.json
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/bin/Debug/net6.0/ThirdCoreApplication.runtimeconfig.json
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/bin/Debug/net6.0/ThirdCoreApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/bin/Debug/net6.0/ThirdCoreApplication.pdb
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.csproj.AssemblyReference.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.AssemblyInfoInputs.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.AssemblyInfo.cs
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.csproj.CoreCompileInputs.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/refint/ThirdCoreApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.pdb
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ThirdCoreApplication.genruntimeconfig.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/ThirdCoreApplication/obj/Debug/net6.0/ref/ThirdCoreApplication.dll
