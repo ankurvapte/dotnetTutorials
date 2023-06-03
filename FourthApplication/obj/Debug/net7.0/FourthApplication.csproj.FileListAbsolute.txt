@@ -1,0 +1,15 @@
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/bin/Debug/net7.0/FourthApplication
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/bin/Debug/net7.0/FourthApplication.deps.json
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/bin/Debug/net7.0/FourthApplication.runtimeconfig.json
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/bin/Debug/net7.0/FourthApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/bin/Debug/net7.0/FourthApplication.pdb
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.csproj.AssemblyReference.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.AssemblyInfoInputs.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.AssemblyInfo.cs
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.csproj.CoreCompileInputs.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/refint/FourthApplication.dll
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.pdb
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/FourthApplication.genruntimeconfig.cache
+/Users/ankurapte/Documents/Ankur/dotnetTutorials/FourthApplication/obj/Debug/net7.0/ref/FourthApplication.dll
