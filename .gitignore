@@ -1,2 +1,11 @@
-*.dll
-*.pdb
+**.dll
+**.pdb
+**.deps.json
+**.runtimeconfig.json
+**.AssemblyInfo.cs
+**.AssemblyInfoInputs.cache
+**.GeneratedMSBuildEditorConfig.editorconfig
+**.AssemblyReference.cache
+**.CoreCompileInputs.cache
+**.genruntimeconfig.cache
+FourthApplication/bin/Debug/net7.0/FourthApplication
